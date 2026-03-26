@@ -1,4 +1,4 @@
-# ShelbyMarket
+# ShelfMarket
 
 The Data Layer for Decentralized AI. ShelbyMarket is a decentralized marketplace for high-value AI datasets, allowing users to publish, monetize, and fetch training data, RAG corpora, and embeddings with cryptographic access proofs. Settled on Aptos, delivered by DoubleZero.
 
